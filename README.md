@@ -1,6 +1,6 @@
 - 👋 Hi, I’m junliang Lu 
 - 👀 I’m interested in Valorant(FPS)
-- 🌱 I’m currently learning EECS
+- 🌱 I’m currently learning EECS in UESTC
 - 📫 How to reach me: ljl210129@gmail.com
 
 My ![Visitor Count](https://profile-counter.glitch.me/UESTC-LU/count.svg) visitor
